@@ -1,0 +1,4 @@
+google-cloud-automl
+tensorflow~=2.4
+rdkit-pypi
+deepchem
